@@ -1,6 +1,4 @@
 import React, {useState} from "react";
-import logo from './logo.svg';
-
 import Icon from "./components/Icon";
 
 import { ToastContainer, toast } from 'react-toastify';
